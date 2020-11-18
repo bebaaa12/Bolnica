@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\HospitalDataAccess.deps.json
+C:\Users\Administrator\source\repos\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\HospitalDataAccess.dll
+C:\Users\Administrator\source\repos\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\HospitalDataAccess.pdb
+C:\Users\Administrator\source\repos\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\HospitalDomain.dll
+C:\Users\Administrator\source\repos\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\HospitalDomain.pdb
+C:\Users\Administrator\source\repos\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\HospitalDataAccess.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\HospitalDataAccess.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\HospitalDataAccess.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\HospitalDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\HospitalDataAccess.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\HospitalDataAccess.dll
+C:\Users\Administrator\source\repos\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\HospitalDataAccess.pdb
+C:\Users\Administrator\source\repos\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\HospitalDataAccess.runtimeconfig.json
+C:\Users\Administrator\source\repos\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\HospitalDataAccess.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\HospitalDataAccess.genruntimeconfig.cache
